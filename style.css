@@ -1,4 +1,9 @@
 .fixed-height {
-    height: 85svh;
+    height: 85vh;
     filter: brightness(50%);
+}
+
+.fa-brands {
+    color: aliceblue;
+
 }
