@@ -1,3 +1,4 @@
 .fixed-height {
-    height: 550px;
+    height: 85svh;
+    filter: brightness(50%);
 }
